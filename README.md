@@ -1,13 +1,13 @@
 # Ninja
-Objetivos
-• Implementar un sistema orientado a objetos inspirado en Naruto.
+Objetivos\n
+• Implementar un sistema orientado a objetos inspirado en Naruto.\n
 • Usar Factory para la creación de objetos, Builder para personalización y Visitor para
-exportación de datos.
-• Mantener un diseño limpio, modular y extensible
+exportación de datos.\n
+• Mantener un diseño limpio, modular y extensible\n
 
-Entregables:
-o Código fuente con estructura clara de paquetes/módulos
-o Diagrama UML de clases que explique las relaciones y patrones implementados
-o Documento breve explicando:
-o Cómo se utilizó cada patrón de diseño
-o Ejemplos de ejecución
+Entregables:\n
+o Código fuente con estructura clara de paquetes/módulos\n
+o Diagrama UML de clases que explique las relaciones y patrones implementados\n
+o Documento breve explicando:\n
+o   Cómo se utilizó cada patrón de diseño\n
+o   Ejemplos de ejecución\n
