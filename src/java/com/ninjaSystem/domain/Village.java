@@ -22,9 +22,4 @@ public class Village {
     public ArrayList<Ninja> getNinjas() {
         return ninjas;
     }
-
-    // Métodos
-    public void addNinja(Ninja ninja) {
-        ninjas.add(ninja);
-    }
 }
